@@ -1,0 +1,15 @@
+PODS:
+  - CSV.swift (1.1.0)
+  - PopupDialog (0.5.0)
+
+DEPENDENCIES:
+  - CSV.swift (~> 1.1)
+  - PopupDialog (~> 0.5)
+
+SPEC CHECKSUMS:
+  CSV.swift: 169a2c48ccce90084ceb6d704dfb649895e1d559
+  PopupDialog: 9890441b81105b9076757af2afe2b037be682f3e
+
+PODFILE CHECKSUM: 74f109d80ddd86f375dfcdf1cc63863d8ab18982
+
+COCOAPODS: 1.1.1
